@@ -1,1 +1,1 @@
-web: infinite-ocean-4502
+web: goapp
